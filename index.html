@@ -338,7 +338,7 @@
             position: absolute;
             inset: 0;
             display: flex;
-            
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             color: #9ca3af;
@@ -1187,7 +1187,23 @@
         const attachChapterEventListeners = (financials) => {
             if (chapter === 1) {
                 const input = document.getElementById('company-name');
-                input.oninput = (e) => { companyName = e.target.value; render(); };
+
+                input.oninput = (e) => {
+                const start = e.target.selectionStart;
+                const end = e.target.selectionEnd;
+
+                companyName = e.target.value;
+
+                render();
+
+                // Restore cursor & selection
+                const newInput = document.getElementById('company-name');
+                if (newInput) {
+                newInput.focus();
+                newInput.setSelectionRange(start, end);
+                }
+                };
+
                 input.focus();
             }
             if (chapter === 2) {
