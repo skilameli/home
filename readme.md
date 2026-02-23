@@ -1,53 +1,56 @@
 # Hi, I'm Sanjeev Khanal 👋
-<img src="sanjeev.jpg" width="150" style="border-radius: 50%;">
 
+<p align="center">
+  <img src="sanjeev.jpg" width="180" style="border-radius: 50%; border: 2px solid #2ea44f;">
+  <br>
+  <em>"Financial precision with ecological intelligence."</em>
+</p>
 
-
-### System Designer | Semi-qualified Chartered Accountant | Ecological Modeler
-
-I bridge the gap between **traditional fiscal accountability** and **complex ecological modeling**. My work focuses on building resilient, circular, and transparent infrastructure by understanding resource flows—whether they are currency, data, or biological nutrients.
+### 🛠️ System Designer | Semi-qualified Chartered Accountant
+I specialize in **systemic redesign**, bridging the gap between traditional fiscal accountability and complex ecological modeling. My work is dedicated to building resilient, circular, and transparent infrastructure by analyzing resource flows—be they currency, data, or biological nutrients.
 
 ---
 
-### 🚀 Core Systems & Projects
+### 🌐 Expertise Layers
+- **Financial Architecture:** High-Fidelity Financials, Ledger Traceability, Audit Innovation.
+- **Logistics & Data:** Agent-Based Simulation, Logistics Modeling, Density Analytics, Capital Velocity.
+- **Ecological Systems:** Circular Economics, Regenerative Systems, Bio-Integrated Design, Aquaponics & Mycology, Waste-to-Energy.
+
+---
+
+### 🚀 Active Systems & Simulations
 
 #### [PANA](https://sanjeevkhanal.com.np/) | Smart Accounting System
-* **The Vision:** An innovative accounting ecosystem for SMEs.
-* **Technical Focus:** Linking source documentation directly to digital ledger entries to ensure absolute, immutable audit trails.
+**Status:** Operational Phase  
+An innovative accounting ecosystem for SMEs linking source documentation directly to digital ledger entries to ensure absolute, immutable audit trails.
 
 #### [DDG Nepal](https://sanjeevkhanal.com.np/) | Drone Delivery Grid
-* **The Vision:** Modeling urban logistics density.
-* **Technical Focus:** Agent-based simulations to analyze how time-compression in delivery cycles accelerates the velocity of capital for local economies.
+**Status:** Simulation Phase  
+Modeling urban logistics density to analyze how time-compression in delivery cycles accelerates the velocity of capital for local economies.
 
 #### [FEH Nepal](https://sanjeevkhanal.com.np/) | Circular Food + Energy Hub
-* **The Vision:** A bio-integrated production model.
-* **Technical Focus:** Regenerative resource loops combining aquaponics, mycology, and waste-to-energy systems.
+**Status:** Financial Projections Complete  
+A bio-integrated production model combining aquaponics, mycology, and renewable energy into a single regenerative resource loop.
 
 ---
 
 ### 🧠 The Awareness Framework
-My work is guided by the **Observation, Memory, and Pattern (OMP)** triad—a recursive system framework derived from my research into the meaning of consciousness and systemic reality.
+My approach is guided by a recursive system framework derived from my research into the nature of consciousness. It operates on the **OMP (Observation, Memory, and Pattern)** triad:
 
-- **Perception:** How systems intake data.
-- **Memory:** How patterns are stored and refined.
-- **Decisions:** How feedback loops shape the reality of the system.
-
----
-
-### 🛠️ Expertise & Interests
-- **Financial Systems:** High-Fidelity Financials, Ledger Traceability, Audit Innovation.
-- **Modeling:** Agent-Based Simulation, Logistics Modeling, Density Analytics.
-- **Sustainability:** Circular Economics, Bio-Integrated Design, Regenerative Systems.
-- **Philosophy:** Systems Theory, Consciousness Research, Recursive Frameworks.
+* **Perception:** High-level conceptual browsing and data intake.
+* **Models:** Building systemic representations of reality.
+* **Decisions:** Closing the loop through feedback and systemic action.
 
 ---
 
-### 📬 Let's Connect
-I am always open to collaborations regarding **system design, auditing innovation, and ecological resource management.**
+### 📫 Connect with Me
+I am open to collaborations regarding **system design, auditing innovation, and ecological resource management.**
 
-- 🌐 [Portfolio](https://sanjeevkhanal.com.np)
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 [mail@sanjeevkhanal.com.np](mailto:mail@sanjeevkhanal.com.np)
+* 🌍 [Portfolio Website](https://sanjeevkhanal.com.np)
+* 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* 📧 [mail@sanjeevkhanal.com.np](mailto:mail@sanjeevkhanal.com.np)
 
 ---
-*"Financial precision with ecological intelligence."*
+<p align="center">
+  <sub>Built with the <strong>Observation, Memory, and Pattern</strong> triad.</sub>
+</p>
