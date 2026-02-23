@@ -1,61 +1,60 @@
-# Sanjeev Khanal 👋
-### System Designer | Co-Founder at 1pana | Semi-qualified CA
+# Sanjeev Khanal
+### System Designer
+### Co-Founder at 1pana
+### Semi-qualified Chartered Accountant
 
 <p align="left">
-  <img src="sanjeev.jpg" width="150" style="border-radius: 10px; border: 1px solid #30363d;">
+  <img src="sanjeev.jpg" width="160" style="border-radius: 20px; border: 2px solid #2ea44f;">
 </p>
 
-> **Vision:** Bridging the gap between traditional fiscal accountability and complex ecological modeling. I build resilient, circular, and transparent infrastructure.
+> **"Financial precision with ecological intelligence."** > Bridging the gap between traditional fiscal accountability and complex ecological modeling to build resilient, circular, and transparent infrastructure.
 
 ---
 
-### 💼 Professional Timeline (2020 – 2026)
+### ⏳ The Systemic Timeline (2020 – 2026)
 
-**🚀 Co-Founder | [1pana](https://1pana.com)** *July 2023 – Present (Lalitpur, Nepal)* * Leading the development of a smart accounting ecosystem for SMEs.  
-* Integrating source documentation directly into digital ledgers for absolute audit trails.  
-* Focusing on capital velocity and financial transparency for local economies.
-
-**🌿 Founder / Lead | [Sadhana Lifestyles](https://studio--studio-1028818482-20238.us-central1.hosted.app/)** *2025 (3-Month Intensive)* * Applying systemic design to lifestyle and ecological resource management.  
-* Exploring bio-integrated production and regenerative resource loops.
-
-**🍎 Systems Architect | [Food-Ecosystem (FEH Nepal)](https://sanjeevkhanal.com.np/)** *2025 (1-Month Sprint)* * Designed financial and operational projections for a Circular Food + Energy Hub.  
-* Modeled resource flows between aquaponics, mycology, and waste-to-energy systems.
-
-**🧠 Researcher | [The Awareness Framework](https://theawarenessframework.github.io/website)** *2024 – 2025 (7-Month Deep Dive)* * Developed a recursive system framework based on **Observation, Memory, and Pattern (OMP)**.  
-* Authored research on the intersection of consciousness and systemic reality.
-
-**📑 Article Trainee | M. Khanal & Co., Chartered Accountants** *February 2020 – February 2023* * Conducted statutory and internal audits for diverse corporate entities.  
-* Mastered high-fidelity financials, ledger traceability, and fiscal accountability.
-
----
-
-### 🛠️ Core Competencies
-
-| **Financial Precision** | **Ecological Intelligence** | **Systemic Modeling** |
+| Period | Role | System / Project |
 | :--- | :--- | :--- |
-| Audit Innovation | Circular Economics | Agent-Based Simulation |
-| Ledger Traceability | Bio-Integrated Design | Logistics Modeling |
-| SME Accounting | Mycology & Aquaponics | Density Analytics |
+| **2023 – Pres.** | **Co-Founder** | [1pana](https://1pana.com) — *Smart SME Accounting* |
+| **2025 (3m)** | **Founder** | [Sadhana Lifestyles](https://studio--studio-1028818482-20238.us-central1.hosted.app/) — *Regenerative Systems* |
+| **2025 (1m)** | **Architect** | [Food-Ecosystem](https://sanjeevkhanal.com.np/) — *Bio-Integrated Projections* |
+| **2024 – 2025** | **Researcher** | [Awareness Framework](https://theawarenessframework.github.io/website) — *OMP Triad Study* |
+| **2020 – 2023** | **Trainee** | M. Khanal & Co., CAs — *Audit & Ledger Traceability* |
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Active Ecosystems
 
-* **[1PANA](https://1pana.com):** Operational phase smart accounting for SMEs.
-* **[DDG Nepal](https://sanjeevkhanal.com.np/):** Simulation phase drone delivery grid modeling for urban density.
-* **[Awareness Framework](https://theawarenessframework.github.io/website):** Theoretical framework for recursive systems.
+#### 🌐 [1pana](https://1pana.com)
+**Status:** `Operational` | **Focus:** `Fiscal Transparency`  
+Developing an innovative accounting ecosystem for SMEs. We link source documentation directly to digital ledger entries, ensuring absolute, immutable audit trails and accelerating capital velocity.
+
+#### 🧠 [The Awareness Framework](https://theawarenessframework.github.io/website)
+**Status:** `Research` | **Focus:** `Systemic Consciousness`  
+A recursive system framework proposing that the universe operates on an **Observation, Memory, and Pattern (OMP)** triad. A loop that continuously gives shape to the reality we experience.
+
+#### 🌿 [Sadhana Lifestyles](https://studio--studio-1028818482-20238.us-central1.hosted.app/)
+**Status:** `Pilot` | **Focus:** `Bio-Integration`  
+Applying systemic redesign to lifestyle and resource management, combining aquaponics, mycology, and renewable energy into regenerative resource loops.
 
 ---
 
-### 📫 Connect & Collaborate
+### 🛠️ Expertise Matrix
 
-* 🌍 **Portfolio:** [sanjeevkhanal.com.np](https://sanjeevkhanal.com.np)
-* 💼 **LinkedIn:** [linkedin.com/in/sanjeev-khanal](https://linkedin.com/in/sanjeev-khanal)
+* **Financial Precision:** Audit Innovation, High-Fidelity Financials, Ledger Traceability.
+* **Logistics & Data:** Agent-Based Simulation, Logistics Modeling, Density Analytics.
+* **Ecological Intelligence:** Circular Economics, Waste-to-Energy, Mycology systems.
+
+---
+
+### 📫 Interface & Connectivity
+
+* 🌍 **Web:** [sanjeevkhanal.com.np](https://sanjeevkhanal.com.np)
+* 💼 **LinkedIn:** [sanjeev-khanal](https://linkedin.com/in/sanjeev-khanal)
 * 📧 **Email:** [mail@sanjeevkhanal.com.np](mailto:mail@sanjeevkhanal.com.np)
 * 📱 **Phone:** [+977-9705005200](tel:+9779705005200)
-* 💬 **Inquiry:** Open to collaborations in system design, audit innovation, and resource management.
 
 ---
 <p align="center">
-  <sub>"Financial precision with ecological intelligence." | 2026 Profile Update</sub>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2ea44f&style=flat" alt="Views" />
 </p>
