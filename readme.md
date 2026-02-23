@@ -41,7 +41,7 @@
 
 ### 🚀 Key Projects
 
-* **[PANA](https://1pana.com):** Operational phase smart accounting for SMEs.
+* **[1PANA](https://1pana.com):** Operational phase smart accounting for SMEs.
 * **[DDG Nepal](https://sanjeevkhanal.com.np/):** Simulation phase drone delivery grid modeling for urban density.
 * **[Awareness Framework](https://theawarenessframework.github.io/website):** Theoretical framework for recursive systems.
 
